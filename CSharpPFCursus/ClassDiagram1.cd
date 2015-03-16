@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Firma.Personeel.Werknemer">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Firma.Personeel.Werknemer.WerkRegime">
+        <Compartments>
+          <Compartment Name="Nested Types" Collapsed="false" />
+        </Compartments>
+        <NestedTypes>
+          <Enum Name="Firma.Personeel.Werknemer.WerkRegime.RegimeType" Collapsed="true">
+            <TypeIdentifier>
+              <NewMemberFileName>Werknemer.cs</NewMemberFileName>
+            </TypeIdentifier>
+          </Enum>
+        </NestedTypes>
+        <TypeIdentifier>
+          <NewMemberFileName>Werknemer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQQECAAACAAEAhAEgAAJhABAAKAAgIAAQIAAAAgAAIE=</HashCode>
+      <FileName>Werknemer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CSharpPFCursus.Program" Collapsed="true">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharpPFCursus.LijnenTrekker" Collapsed="true">
+    <Position X="5" Y="5.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>LijnenTrekker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharpPFCursus.Verwisselaar" Collapsed="true">
+    <Position X="5" Y="6.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Verwisselaar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharpPFCursus.Omzetter" Collapsed="true">
+    <Position X="5" Y="7.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAQAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Omzetter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharpPFCursus.Rekenaar" Collapsed="true">
+    <Position X="5" Y="8" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rekenaar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Firma.Personeel.Arbeider">
+    <Position X="3" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAACAAAABAEAABCAABAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Arbeider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Firma.Personeel.Bediende">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAEAIAIgABAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Bediende.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Firma.Personeel.Manager">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAABCEAAAAAABAAgAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Firma.Personeel.Afdeling">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAABAAAEAAAABAAAAIAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Afdeling.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Firma.Materiaal.Fotokopiemachine">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkAAAAAAAAAABAAAAAAAgAAAAAgAAAAAQAAACkgAAAg=</HashCode>
+      <FileName>Fotokopiemachine.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Firma.IKost">
+    <Position X="3" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAgAAAA=</HashCode>
+      <FileName>IKost.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Firma.Personeel.Geslacht">
+    <Position X="3" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Geslacht.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Firma.Materiaal.Status">
+    <Position X="6.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StatusMateriaal.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Firma.Personeel.Status">
+    <Position X="4.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>StatusPersoneel.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
